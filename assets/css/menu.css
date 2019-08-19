@@ -622,6 +622,7 @@ ul.dropdown-menus li a {
 	top: 0;
 	position: relative;
 	font-size: 27px;
+	cursor: pointer;
 }
 
 .close-menu .bar:first-child {
