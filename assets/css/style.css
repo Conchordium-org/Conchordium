@@ -572,6 +572,12 @@ input[type="submit"]:hover {
     margin-top: 25px;
     margin-bottom: 35px;
 }
+.main-slider .slider-content p .highlight {
+    background-image: url(../images/highlights/stroke-1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 95%;
+    padding: 8px 0;
+}
 .main-slider .slider-content .slide-para {
     padding-right: 30%;
 }
