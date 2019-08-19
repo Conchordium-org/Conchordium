@@ -434,7 +434,7 @@ input[type="submit"]:hover {
     z-index: 5000;
 }
 .header.affix {
-    top: -55px;
+    /*top: -55px;*/
 }
 .header.affix .menu-area {
     background-color: rgba(17, 25, 61, 1)
