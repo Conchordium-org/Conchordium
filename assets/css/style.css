@@ -527,7 +527,7 @@ input[type="submit"]:hover {
 }
 .main-slider .item:after {
     content:"";
-    background-color: rgba(17, 25, 61, .5);
+    background-color: rgba(17, 25, 61, .35);
     position: absolute;
     left: 0;
     right: 0;
