@@ -527,7 +527,7 @@ input[type="submit"]:hover {
 }
 .main-slider .item:after {
     content:"";
-    background-color: rgba(17, 25, 61, .35);
+    /*background-color: rgba(17, 25, 61, .01);*/
     position: absolute;
     left: 0;
     right: 0;
@@ -571,12 +571,6 @@ input[type="submit"]:hover {
     color: #fff;
     margin-top: 25px;
     margin-bottom: 35px;
-}
-.main-slider .slider-content p .highlight {
-    background-image: url(../images/highlights/stroke-1.png);
-    background-repeat: no-repeat;
-    background-size: 100% 95%;
-    padding: 8px 0;
 }
 .main-slider .slider-content .slide-para {
     padding-right: 30%;
