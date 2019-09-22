@@ -2015,6 +2015,9 @@ ul.get-services li a:hover {
     text-transform: uppercase;
     color: #fff;
 }
+.footer-title a:hover {
+    color: #febd00;
+}
 .a:hover .footer-title {
     color: #febd00;
 }
