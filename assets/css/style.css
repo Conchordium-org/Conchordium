@@ -2016,7 +2016,11 @@ ul.get-services li a:hover {
     color: #fff;
 }
 .footer-title:hover,
-.footer-title h4:hover {
+.footer-title h4:hover,
+.footer-title a:hover
+.a .footer-title h4:hover,
+.wi-content .a .footer-title:hover,
+.wi-content .a .footer-title h4:hover {
     color: #febd00;
 }
 
