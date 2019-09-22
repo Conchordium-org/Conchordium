@@ -2008,6 +2008,16 @@ ul.get-services li a:hover {
     text-align: center;
     padding: 30px;
 }
+.a .footer-title,
+.a .footer-title h4 {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+}
+.a .footer-title:hover {
+    color: #febd00;
+}
 
 /*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
