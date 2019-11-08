@@ -909,6 +909,9 @@ input[type="submit"]:hover {
 .port-content p {
     color: #fff;
 }
+.port-content a {
+    color: #fff;
+}
 .port-icon {
     color: #fff;
     font-size: 20px;
