@@ -890,7 +890,7 @@ input[type="submit"]:hover {
 }
 .port-content {
     position: absolute;
-    width: 100%;
+    width: 80%;
     left: 50%;
     top: 50%;
     -webkit-transform: translate(-50%,-50%);
