@@ -498,7 +498,8 @@ ul.dropdown-menus li a {
     right: 10px;
     font: normal normal normal 14px/1 FontAwesome;
     transition: all 0.3s ease-in-out;
-    font-size: 16px;
+	font-size: 20px;
+	/* originally 16px */
 }
 .slide-menu > li.open .dropdown-here:before {
     content: "\f068";
@@ -506,7 +507,8 @@ ul.dropdown-menus li a {
     right: 10px;
     font: normal normal normal 14px/1 FontAwesome;
     transition: all 0.3s ease-in-out;
-    font-size: 16px;
+	font-size: 20px;
+	/* originally 16px */
 }
 .slide-menu > li > a {
     text-decoration: none;
@@ -537,7 +539,8 @@ ul.dropdown-menus li a {
     position: absolute;
     top: 13px;
     left: 16px;
-    font-size: 14px;
+	font-size: 18px;
+	/* originally 14px */
 }
 .slide-menu .dropdown-here .fa-angle-down {
     right: 12px;
@@ -561,7 +564,8 @@ ul.dropdown-menus li a {
     color: #FFF;
     transition: all 0.4s ease-out;
     text-decoration: none;
-    font-size: 12px;
+	font-size: 16px;
+	/* originally 12px */
     line-height: 24px;
 }
 .mobile-search {
