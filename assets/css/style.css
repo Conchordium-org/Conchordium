@@ -669,18 +669,18 @@ input[type="submit"]:hover {
     background: #febd00;
 }
 /*-- Animation --*/
-.main-slide .animated4 strong {
+/* .main-slide .animated4 strong {
     color: #ee3733;
-}
+} */
 .carousel .item.active .animated1 {
-    -webkit-animation: fadeInUp 1s ease-in 300ms both;
-    animation: fadeInUp 1s ease-in 300ms both;
+    -webkit-animation: fadeInUp 350ms ease-in 300ms both;
+    animation: fadeInUp 350ms ease-in 300ms both;
 }
 .carousel .item.active .animated2 {
-    -webkit-animation: lightSpeedIn 1s ease-in 300ms both;
-    animation: lightSpeedIn 1s ease-in 300ms both;
+    -webkit-animation: fadeInUp 500ms ease-in 300ms both;
+    animation: fadeInUp 500ms ease-in 300ms both;
 }
-.carousel .item.active .animated3 {
+/* .carousel .item.active .animated3 {
     -webkit-animation: bounceInLeft 1s ease-in-out 300ms both;
     animation: bounceInLeft 1s ease-in-out 300ms both;
 }
@@ -703,7 +703,7 @@ input[type="submit"]:hover {
 .carousel .item.active .animated8 {
     -webkit-animation: fadeInDown 1s ease-in 500ms both;
     animation: fadeInDown 1s ease-in 500ms both;
-}
+} */
 .main-slider .carousel-inner .item {
   -webkit-transition-property: opacity;
   -o-transition-property: opacity;
