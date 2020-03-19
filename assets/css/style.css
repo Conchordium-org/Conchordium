@@ -673,14 +673,14 @@ input[type="submit"]:hover {
     color: #ee3733;
 } */
 .carousel .item.active .animated1 {
-    -webkit-animation: fadeInUp 1s ease-in 150ms both;
-    animation: fadeInUp 1s ease-in 150ms both;
+    -webkit-animation: fadeInUp 10s ease-in 3000ms both;
+    animation: fadeInUp 10s ease-in 3000ms both;
 }
-.carousel .item.active .animated2 {
-    -webkit-animation: fadeInUp 1s ease-in 400ms both;
-    animation: fadeInUp 1s ease-in 400ms both;
+/* .carousel .item.active .animated2 {
+    -webkit-animation: fadeInUp 1s ease-in 300ms both;
+    animation: fadeInUp 1s ease-in 300ms both;
 }
-/* .carousel .item.active .animated3 {
+.carousel .item.active .animated3 {
     -webkit-animation: bounceInLeft 1s ease-in-out 300ms both;
     animation: bounceInLeft 1s ease-in-out 300ms both;
 }
