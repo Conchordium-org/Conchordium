@@ -672,13 +672,14 @@ input[type="submit"]:hover {
 /* .main-slide .animated4 strong {
     color: #ee3733;
 } */
+/* Format for animated1 and animated2: animation: [animate.css animation] [animation duration] ease-in [animation delay] both */
 .carousel .item.active .animated1 {
-    -webkit-animation: fadeInUp 1s ease-in 50ms both;
-    animation: fadeInUp 1s ease-in 50ms both;
+    -webkit-animation: fadeInUp 500ms ease-in 300ms both;
+    animation: fadeInUp 500ms ease-in 300ms both;
 }
 .carousel .item.active .animated2 {
-    -webkit-animation: fadeInUp 2s ease-in 50ms both;
-    animation: fadeInUp 2s ease-in 50ms both;
+    -webkit-animation: fadeInUp 500ms ease-in 800ms both;
+    animation: fadeInUp 500ms ease-in 800ms both;
 }
 /* .carousel .item.active .animated3 {
     -webkit-animation: bounceInLeft 1s ease-in-out 300ms both;
