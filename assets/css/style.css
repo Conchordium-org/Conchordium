@@ -672,6 +672,10 @@ input[type="submit"]:hover {
 .main-slide .animated4 strong {
     color: #ee3733;
 }
+.carousel .item.active .animated1 {
+    -webkit-animation: fadeInUp 1s ease-in 300ms both;
+    animation: fadeInUp 1s ease-in 300ms both;
+}
 .carousel .item.active .animated2 {
     -webkit-animation: lightSpeedIn 1s ease-in 300ms both;
     animation: lightSpeedIn 1s ease-in 300ms both;
